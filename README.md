@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Packages
 https://pub.dartlang.org/packages/google_maps_flutter
+https://pub.dartlang.org/packages/qr_flutter
